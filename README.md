@@ -2,7 +2,7 @@
 
 > A hands-on journey into Artificial Intelligence, Machine Learning, Deep Learning, and Large Language Models — from beginner fundamentals to advanced AI engineering, security research, and ethical AI red teaming.
 
-**Maintained by [Zeroday Academy](https://github.com/zerodayacademy)**
+**Maintained by [Zeroday Academy](https://www.youtube.com/@zerodayacademy.online)**
 
 [![Learning](https://img.shields.io/badge/Status-Actively%20Learning-76B900?style=flat-square)](#learning-roadmap)
 [![Python](https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
