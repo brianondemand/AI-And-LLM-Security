@@ -1,0 +1,7 @@
+
+
+```
+ollama pull tinyllama
+```
+
+
